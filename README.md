@@ -1,24 +1,176 @@
-# 💫 About Me:
-Hi, I’m Mayank Raj 👋<br>Engineering student at Scalar School of Technology, Bangalore.<br><br>I’m learning and building in backend development, with a focus on Java, Spring Boot, MongoDB, and improving my DSA skills. I also explore React and TypeScript to grow as a full-stack developer.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:238636&height=220&section=header&text=Mayank%20Raj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20DSA&descAlignY=60"/>
+</p>
 
+<h1 align="center">Hi 👋 I'm Mayank Raj</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mayankraj_47/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-raj-567b32342/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankraj4728@gmail.com) 
+<p align="center">
+Engineering Student @ Scaler School of Technology <br>
+Backend Developer • Java • Spring Boot • System Design
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mayankraj4728&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mayankraj4728&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankraj4728&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mayankraj4728&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3FB950&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;Building+Production+Ready+Applications;Data+Structures+%26+Algorithms;Always+Learning+Something+New"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mayankraj4728&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+I'm **Mayank Raj**, an Engineering student at **Scaler School of Technology** passionate about building scalable backend applications.
+
+I enjoy solving challenging problems, designing clean APIs, and learning how large-scale software systems work.
+
+Currently I'm focused on becoming a strong backend engineer by mastering modern backend technologies and software engineering fundamentals.
+
+---
+
+## 🎯 Current Focus
+
+- 🔥 Solving DSA problems daily
+- 🌱 Building production-ready Spring Boot applications
+- ⚡ Learning Redis, Kafka & Microservices
+- 🧠 Studying System Design & Distributed Systems
+- 🚀 Preparing for Software Engineering internships
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,go"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,postgres,redis"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css"/>
+</p>
+
+### Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux,idea,vscode"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 📖 GitRead
+
+AI-powered GitHub Repository Reader that makes large repositories easy to understand.
+
+**Tech Stack**
+
+- React
+- TypeScript
+- AI
+- GitHub API
+
+---
+
+## 🛒 E-Commerce Backend
+
+Production-ready backend built using Spring Boot.
+
+**Features**
+
+- JWT Authentication
+- REST APIs
+- MongoDB
+- Spring Security
+- Role Based Access Control
+
+---
+
+## 🚖 Ride Sharing Backend
+
+Scalable backend inspired by Uber.
+
+**Features**
+
+- Authentication
+- Booking APIs
+- Payment Integration
+- Clean Architecture
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayankraj4728&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankraj4728&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankraj4728&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankraj4728&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mayankraj4728&theme=github_dark&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mayankraj4728@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mayank-raj-567b32342/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/mayankraj_47/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote I Believe In
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, consider giving them a star!
+
+</p>
